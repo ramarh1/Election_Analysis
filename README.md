@@ -14,16 +14,21 @@ A Colorado Board of Elections employee has given you the following tasks to comp
 
 ## Election Audit Results
 <img width="765" alt="Screen Shot 2021-09-14 at 1 58 33 PM" src="https://user-images.githubusercontent.com/88624677/133445533-6834dbc9-e08a-4543-8e73-5bf8219b0da3.png">
+
 The analysis of the election show that:
+
 - There were 369,711 votes cast in the election.
+
 - The counties were:
     - Jefferson
     - Denver
     - Arapahoe
+    
 - The county results were:
     - Jefferson received 10.5% of the vote and 38,855 number of the votes.
     - Denver received 82.8% of the vote and 306,055 number of the votes.
     - Arapahoe received 6.7% of the vote and 24,801 number of the votes.
+    
 - The county with the highest turnout was:
     -  Denver, which received 82.8% of the vote and 306,055 number of the votes.
     
