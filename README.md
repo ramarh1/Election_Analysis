@@ -46,4 +46,4 @@ The analysis of the election show that:
     - Diana Degette, who receieved 73.8% of the vote and 272,892 number of the votes.
    
  ## Election Audit Summary
- This script can be used for any election, but we could improve it in some ways. We could alter the code to see which party voted for which candidate, and which party has the highest turnout in each county. We could also modify the code to include age and gender of those who vote.
+ This script can be used for any election, but we could improve it in some ways. We could alter the code to see which party voted for which candidate, and which party has the highest turnout in each county. We could also modify the code to include age and gender of those who voted.
